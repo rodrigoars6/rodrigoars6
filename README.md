@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá! Eu sou Rodrigo Araujo 👋
 
-<!--
-**rodrigoars6/rodrigoars6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
+💻 Focado em Desenvolvimento Back-end, Java e Banco de Dados  
+🚀 Em evolução para Desenvolvimento de Software  
 
-Here are some ideas to get you started:
+## Tecnologias e Ferramentas
+- Java
+- Python
+- SQL
+- MySQL
+- Git & GitHub
+- Spring Boot
+- ITSM / Service Desk
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Atualmente estudando
+- Programação Orientada a Objetos (POO)
+- APIs REST
+- Spring Boot
+- Banco de Dados Relacional
+- Estruturas de Dados
+
+## Objetivo
+Buscando oportunidade de estágio ou posição júnior em:
+- Desenvolvimento Back-end
+- Análise de Sistemas
+- Dados
